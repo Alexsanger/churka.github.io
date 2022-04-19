@@ -1,0 +1,3 @@
+token = OTE4NDk4NTAwNjUwNjAyNTc2.YbIIYw.1kIylOiS96hNVZbLkr3GEYN8gs0
+owner = 662694966811820042
+prefix = "&"
